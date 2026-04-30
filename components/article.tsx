@@ -29,7 +29,7 @@ export function Article() {
       </div>
 
       <div className="text-lg text-foreground/80 space-y-4">
-        <p>កាលពីថ្ងៃ</p>
+        <p>KDM Ah Huy</p>
         
         <blockquote className="border-l-4 border-primary pl-4 py-2 italic font-semibold text-foreground/70 bg-muted rounded-r-md">
           {'"ការផ្លាស់ប្តូរតូចតាចនៅថ្ងៃនេះ នឹងបង្កើតលទ្ធផលដ៏អស្ចារ្យនៅថ្ងៃស្អែក។"'}
