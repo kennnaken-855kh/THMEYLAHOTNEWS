@@ -14,16 +14,17 @@ export function Article() {
       </div>
 
       <h2 className="text-2xl font-bold leading-snug mb-4">
-        អស្ចារ្យមែន! បច្ចេកវិទ្យាថ្មីអាចជួយឲ្យការរស់នៅប្រចាំថ្ងៃកាន់តែងាយស្រួល និងចំណេញពេលវេលា
+        មិនគួរឲ្យជឿរសោះលោកអើយបុរសម្នាក់ហេតុតែចូលចិត្តនិងស្រឡាញ់ IDOL ខ្លួនឯងខ្លាំងពេករហូតក៏សម្រេចចិត្តធ្វើរឿងមួយនេះ
       </h2>
 
       <div className="mb-6">
         <Image 
-          src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=800" 
-          alt="Technology article hero image" 
+          src="/images/thmey-lahot-hero.jpeg" 
+          alt="THMEY LAHOT NEWS Breaking News" 
           width={800}
-          height={450}
+          height={1000}
           className="w-full h-auto rounded-lg shadow-sm border border-border"
+          priority
         />
       </div>
 
